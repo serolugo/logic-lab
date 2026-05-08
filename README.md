@@ -14,11 +14,11 @@ Designed and assembled in Nayarit, Mexico.
 
 # Logic Lab MAX V
 
-Educational FPGA platform based on the Intel MAX V family.
+Educational platform based on the Intel MAX V CPLD.
 
 ## Overview
 
-The Logic Lab MAX V was designed as an affordable entry-level FPGA platform focused on learning digital design fundamentals through direct hardware interaction.
+The Logic Lab MAX V was designed as an affordable entry-level board platform focused on learning digital design fundamentals through direct hardware interaction.
 
 
 ## Front Render
@@ -35,7 +35,7 @@ The Logic Lab MAX V was designed as an affordable entry-level FPGA platform focu
 
 ## Specifications
 
-- FPGA: Altera MAX V 5M240ZT144C5N
+- CPLD: Altera MAX V 5M240ZT144C5N
 - 10 LEDs
 - 10 switches
 - 4 push buttons
