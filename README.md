@@ -20,9 +20,6 @@ Educational FPGA platform based on the Intel MAX V family.
 
 The Logic Lab MAX V was designed as an affordable entry-level FPGA platform focused on learning digital design fundamentals through direct hardware interaction.
 
-<p align="center">
-  <img src="boards/logic-lab-max-v/Images/20260401_150503.jpg" width="850">
-</p>
 
 ## Front Render
 
@@ -63,6 +60,10 @@ Enhanced FPGA educational platform based on the Intel MAX 10 family.
 ## Overview
 
 The Logic Lab MAX 10 extends the original Logic Lab concept with a larger FPGA, simplified single-supply configuration, and improved expansion capabilities while preserving the educational-oriented design philosophy.
+
+<p align="center">
+  <img src="boards/logic-lab-max-10/Images/Video Project.gif" width="400">
+</p>
 
 <p align="center">
   <img src="boards/logic-lab-max-10/Images/20260504_174415.jpg" width="850">
